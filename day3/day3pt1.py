@@ -8,3 +8,4 @@ for line in file:
     repeat = len(line)
     all+= line
 all = all.replace('\n','')
+print(all)
